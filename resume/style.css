@@ -6,7 +6,7 @@ body {
     font-weight:400;
 }
 /*name*/ 
-#name{
+div #name{
     font-size:3.5em;
     text-transform:uppercase;
     color:#33485e;
@@ -21,12 +21,18 @@ strong{
     font-size:2em;
     color:#33485e;
 }
-h2{
+div .sectionheader{
     font-size:1.5em;
     text-transform:uppercase;
     background-color:#33485e;
     color:white;
     font-weight:400;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    margin-right: 0px;
+    margin-left: 0px;
+    width:70%;
+    min-width: 300px;
 }
 h3{
     font-weight:600;
