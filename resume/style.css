@@ -42,3 +42,18 @@ strong{
     font-weight:400;
     font-size:1.5em;
 }
+ul{
+    font-size: 1em;
+}
+.date{
+    margin-top: 3px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.description{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
