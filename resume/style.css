@@ -34,7 +34,7 @@ div .sectionheader{
     width:70%;
     min-width: 300px;
 }
-h3{
+div .jobtitle{
     font-weight:600;
     font-size: 2em;
 }
