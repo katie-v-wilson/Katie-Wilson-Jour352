@@ -23,9 +23,6 @@ body {
     font-weight: 600; 
     margin: 0 auto;
     margin-top: 20px;
-    margin-left: 0px;
-    margin-bottom: 0px;
-    margin-right: 0px;
 }
 .sectionheader{
     font-size:1.5em;
@@ -67,6 +64,8 @@ ul.menu{
     margin: 0px;
     padding:0px;
     text-align: center;
+}
+ul.menu > li{
     display: inline;
     list-style-type: none;
 }
