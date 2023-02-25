@@ -5,6 +5,12 @@ body {
     color: #444;
     font-weight:400;
 }
+#container{
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding-bottom: 50px;
+}
 /*name*/ 
 #name{
     font-size:3.5em;
@@ -40,6 +46,7 @@ body {
 .jobtitle{
     font-weight:600;
     font-size: 2em;
+    margin: 0 auto;
 }
 .organization{
     font-weight:400;
@@ -80,10 +87,4 @@ ul.menu > li{
     min-width: 300px;
     margin:0 auto;
     margin-bottom: 30px;
-}
-#container{
-    width: 100%;
-    max-width: 1200 px;
-    margin: 0 auto;
-    padding-bottom: 50px;
 }
