@@ -29,6 +29,7 @@ body {
     font-weight: 600; 
     margin: 0 auto;
     margin-top: 20px;
+    text-align:center;
 }
 .sectionheader{
     font-size:1.5em;
@@ -71,6 +72,7 @@ ul.menu{
     margin: 0px;
     padding:0px;
     text-align: center;
+    margin-top: 0px;
 }
 ul.menu > li{
     display: inline;
