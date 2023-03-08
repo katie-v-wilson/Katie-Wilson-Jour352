@@ -1,28 +1,65 @@
 <!DOCTYPE HTML>
 <html lang="en">
     <head>
+        <!--required meta tags-->
+        <meta charset="utf-8">
+        <meta name = "viewport" content="width=device-width, initial-scale=1">
+        <title>Skate!Newsletter</title>
         <style type = "text/css">
-            .col img {
+            .row1 img {
                 max-width: 500px;
                 width:100%;
             }
             .btn btn-primary{ 
                 margin-top: 25px;
             }
-            .col{
+            .Manrow{
                 margin: 0 auto;
             }
+            .row2{
+                margin: 0 auto;
+            }
+            h1{
+                font-family: 'Special Elite';
+            }
+            h2{
+                font-family: 'Special Elite';
+            }
+            h3{
+                font-family: 'Special Elite';
+            }
+            .navbar-brand{
+                font-family: 'Special Elite';
+            }
+            .btn{
+                font-family: 'Special Elite';
+            }
+            .row1{
+                padding-bottom: 50px;
+            }
+            .row2{
+                padding-bottom: 50px;
+            }
+            @media screen and (max-width: 500px) {
+              h2{
+                padding-top: 50px;
+              }  
+.btn{
+    background-color: teal !important;
+}
+  }
+
         </style>
-        <!--required meta tags-->
-        <meta charset="utf-8">
-        <meta name = "viewport" content="width=device-width, initial-scale=1">
-        <title>Skate!Newsletter</title>
+        <link rel ="stylesheet" type ="text/css" href="skate_newsletter.css">
         <meta name="description" content="Merrill College of Journalism, UMD">
         <meta name="author" content="Katharine Wilson">
          <!-- Bootstrap CSS -->
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"          integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
           <!-- Add bootstrap icons (it's basically a custom font) -->
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&family=Special+Elite&display=swap" rel="stylesheet">
     </head>
     <body>
         <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
@@ -85,15 +122,15 @@
           <div)>
 
         <div class="container">
-  <div class="row">
-    <div class="col">
+  <div class="row1">
+    <div class="Manrow">
       <h2>Lorem ipsum dolor sit amet</h2>
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
       <img src="https://images.unsplash.com/photo-1572776685600-aca8c3456337?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1502&q=80" alt="Man looking into camera">
      <br>
       <button type="button" class="btn btn-primary">Primary</button>
     </div>
-    <div class="col">
+    <div class="skaterow">
         <h2>Lorem ipsum dolor sit amet</h2>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>  
         <img src="https://images.unsplash.com/photo-1621544402532-78c290378588?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80" alt="Skateboarder">
@@ -104,7 +141,7 @@
   </div>
 </div>
 <div class="container">
-    <div class="row">
+    <div class="row2">
       <div class="col">
         <i class="bi bi-book"></i>
         <h3>Read</h3>
@@ -122,4 +159,13 @@
       </div>
     </div>
   </div>
-</html>
+<footer class="footer mt-auto py-3 bg-dark">
+
+    <div class="container">
+
+      <span class="text-muted">This is a bootstrap exercise</span>
+
+    </div>
+
+  </footer>
+  </html>
