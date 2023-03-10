@@ -7,14 +7,24 @@
     height: 100px;
     width: 100%;
     background-color: #587a47;
-    padding-bottom: 20px;
+    padding-bottom: 25px;
 }
 #toppertext{
     color:white;
-    padding: 25px;
+    padding-top: 25px;
     font-size: 50px;
     font-family: "Times New Roman", Times, serif;
     text-align:center ;
+    padding-bottom: 2px;
+    margin-bottom: 0px;
+}
+#slogan{
+    font-family: "Times New Roman", Times, serif;
+    color:white;
+    font-size: 20px;
+    padding-top: 0 px;
+    text-align:center ;
+    margin-top:0px;
 }
 .photo{
     
@@ -41,6 +51,7 @@
     }
 #headline{
     font-family: "Helvetica", Arial, sans-serif;
+    font-size: 50px;
 }
 blockquote{
     color:#587a47;
@@ -50,3 +61,21 @@ blockquote{
     width: 50%;
     padding-left: 25%;
 }
+a:link {
+    color:#587a47;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: blue;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: black
+  }
+  
+  /* selected link */
+  a:active {
+    color: gray;
+  }
