@@ -42,3 +42,11 @@
 #headline{
     font-family: "Helvetica", Arial, sans-serif;
 }
+blockquote{
+    color:#587a47;
+    font-family:"Georgia", 'Times New Roman', Times, serif;
+    font-style: italic; 
+    font-size: 20px;
+    width: 50%;
+    padding-left: 25%;
+}
