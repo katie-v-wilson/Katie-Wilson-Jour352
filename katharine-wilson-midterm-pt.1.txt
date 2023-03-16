@@ -80,7 +80,7 @@ font-weight:bold;
 
 10. What is the purpose of using a media query?
 
-
+Media queries allows us to give certian styles to different screen sizes and orientations. This gives us a more responsive webpage. 
 
 
 11. What is the main difference between a serif and a sans-serif font?
