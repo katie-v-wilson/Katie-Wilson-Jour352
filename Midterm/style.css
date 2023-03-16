@@ -16,7 +16,7 @@ p{
 #byline{
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
-    color:black;
+    color:#6a99c4;
 }
 .topper{
     background-color: #6a99c4;
@@ -41,4 +41,13 @@ p{
     padding-top:0px;
     margin-top:0px;
 
+}
+.caption{
+    font-family: 'Helvetica', Arial, sans-serif;
+    color:gray;
+    font-style: italic;
+    font-size: 12px;
+}
+#bigphoto{
+    width:55%
 }
