@@ -67,15 +67,15 @@ Div tags devide the page, group items together and make css styling easier.
 8.  In the space below write the correct CSS code to target a <p> tag.  Make the size 5em and the background orange (#FFA500).
 
 
-
-
-
-
+p{
+    font-size:5em;
+    background-color:#FFA500;
+}
 
 
 9. What HTML tag does this class use to make text bold? Just give me the name of the tag, you don't have to write out all the code.
 
-
+font-weight:bold;
 
 
 10. What is the purpose of using a media query?
@@ -84,7 +84,7 @@ Div tags devide the page, group items together and make css styling easier.
 
 
 11. What is the main difference between a serif and a sans-serif font?
-
+Serif fonts have fancy ends, sans-serif fonts do not. 
 
 
 
@@ -94,6 +94,7 @@ Div tags devide the page, group items together and make css styling easier.
 101010101
 -213
 
+Answer: #FFCC33
 13. Find the error(s) in this CSS rule and rewrite correctly.
 
 .midterm_rule {
@@ -101,6 +102,15 @@ Div tags devide the page, group items together and make css styling easier.
  font-style italic;
  color: #red;
  text-transform: uppercase
+ font-weight:400;
+}
+
+Corrected version:
+.midterm_rule {
+ font-size: 1.5em;
+ font-style: italic;
+ color: red;
+ text-transform: uppercase;
  font-weight:400;
 }
 
