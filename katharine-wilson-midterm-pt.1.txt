@@ -21,43 +21,45 @@ Questions
 
 UMD has the greatest students in the world.
 
-
+<a href="https://www.umd.edu/">UMD</a> has the greatest students in the world.
 
 
 2. In which main "area" or "section" of an HTML page would you put meta tags, a webpage title and a stylesheet link?
 
-
+The header of the page. 
 
 
 3.  Write out the basic structure of an HTML page, putting the basic tags in the correct position.  (Note: you don't need to connect it to a stylesheet or include DIV tags or anything like that).
 
-
-
-
-
-
-
-
-
-
+<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+    </head>
+    <body>
+    </body>
+</html>
 
 4.  There are two main "areas" or "sections" in the basic structure of an HTML page. In which area would you put a Bootstrap "row"?
-
+The body section 
 
 
 5.   Explain the purpose of using DIV tags.
-
+Div tags devide the page, group items together and make css styling easier. 
 
 
 6.  In the space below, put one DIV tag with an id of content_row and a second DIV tag with a class of headline.
 
+<div id="content-row">
+</div> 
 
-
-
-
+<div class="headline">
+</div>
 
 7.  In the space below, put one DIV tag with a class of peaches and an ID of spaghetti.
 
+<div id="spaghetti" class="peaches" >
+</div> 
 
 
 
