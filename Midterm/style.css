@@ -34,6 +34,7 @@ blockquote{
     width: 100%;
     margin-bottom: 0px;
     height:125px;
+    padding: 0px;
 }
 #toppertext{
     color:white;
@@ -62,8 +63,8 @@ blockquote{
     width:900px;
 }
 .photo{
-    width: 35%;
-    margin:auto;
+    width: 40%;
+    margin:0auto;
 }
 #content{
     padding-right:20px;
