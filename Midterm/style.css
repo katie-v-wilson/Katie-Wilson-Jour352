@@ -58,13 +58,16 @@ blockquote{
     color:gray;
     font-style: italic;
     font-size: 12px;
+    text-align: center;
 }
 #bigphoto{
     width:900px;
 }
 .photo{
     width: 50%;
-    margin:auto;
+    display: block;
+    margin-right:auto;
+    margin-left:auto;
 }
 #content{
     padding-right:20px;
