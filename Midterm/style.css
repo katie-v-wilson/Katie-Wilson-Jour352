@@ -28,8 +28,9 @@ blockquote{
     margin:auto;
 }
 /* topper style */
-.topper{
-    background-color: #6a99c4;
+#topper{
+    background-color:#6a99c4;
+    color:#6a99c4;
     width: 100%;
     margin-bottom: 0px;
     height:125px;
