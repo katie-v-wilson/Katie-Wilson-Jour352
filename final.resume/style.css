@@ -1,3 +1,25 @@
 .pagetop{
     width:100%;
 }
+#headshot{
+    padding-right: 25px;
+    padding-left: 25px;
+    padding-bottom:25px;
+    width: 25em;
+    margin:0 auto;
+}
+#firstsec{
+    padding-top: 25px;
+    background-color: #6da65b;
+}
+#intro{
+    font-family: 'Times New Roman', Times, serif;
+    color:white;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+#navbar{
+    background-color: #6da65b;
+}
