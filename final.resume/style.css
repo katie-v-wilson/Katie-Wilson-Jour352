@@ -1,6 +1,17 @@
 .pagetop{
     width:100%;
 }
+#navbar{
+    background-color: #789f6c;
+}
+#navname{
+    font-family: 'Times New Roman', Times, serif;
+    color: #6da65b;
+    padding-left: 20px;
+}
+.nav-item{
+    font-family: 'Times New Roman', Times, serif;
+}
 #headshot{
     width: 25em;
     margin:0 auto;
@@ -18,17 +29,34 @@
     color:white;
     max-width: 40em;
 }
-h1{
+#amtitle{
     font-family: 'Times New Roman', Times, serif;
     color: white;
 }
-#navbar{
-    background-color: #789f6c;
-}
-#navname{
+#Rtitle{
     font-family: 'Times New Roman', Times, serif;
-    color: #6da65b;
+    color: white;
+} 
+#resume{
+    background-color: #6da65b;
+    width:100%;
 }
-.nav-item{
+.jobsec{
+    background-color: white;
+    width:75%;
+    margin:0 auto;
+    padding:10px;
+}
+.jobtitle{
+    color:#6da65b;
     font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+.jobdate{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.jobdescript{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
 }
