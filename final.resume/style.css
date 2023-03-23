@@ -38,6 +38,8 @@
     font-family: 'Times New Roman', Times, serif;
     color: white;
     font-size: 45px;
+    margin-left:13%;
+    margin-bottom: 20px;
 } 
 #resume{
     background-color: #6da65b;
@@ -65,7 +67,7 @@
     font-family: 'Times New Roman', Times, serif;
     color: #6da65b;
     font-size: 45px;
-    margin-right: 25%;
+    margin-left: 13%;
 }
 #skilllist{
     background-color: #6da65b;
