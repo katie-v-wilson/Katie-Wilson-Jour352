@@ -63,18 +63,33 @@
     font-family: 'Times New Roman', Times, serif;
     font-size: 15px;
 }
+#skills{
+    background-color: #6da65b;
+}
 #stitle{
     font-family: 'Times New Roman', Times, serif;
-    color: #6da65b;
+    color: white;
     font-size: 45px;
     margin-left: 13%;
 }
 #skilllist{
-    background-color: #6da65b;
+    background-color: white;
     width: 75%;
     padding:15px;
     margin:0 auto;
-    color:white;
+    color:#6da65b;
     font-family: 'Times New Roman', Times, serif;
     font-size:17px;
+}
+#knighthall{
+    width: 15em;
+}
+#etitle{
+    font-family: 'Times New Roman', Times, serif;
+    color:#6da65b;
+    font-size: 45px;
+    margin-left: 13%;
+}
+#edudescript{
+    margin:0 auto;
 }
