@@ -21,9 +21,6 @@
     padding-top: 2em;
     background-color: #6da65b;
 }
-#am.title{
-    padding-left: 10em;
-}
 #intro{
     font-family: 'Times New Roman', Times, serif;
     color:white;
@@ -33,6 +30,7 @@
     font-family: 'Times New Roman', Times, serif;
     color: white;
     font-size: 45px;
+    text-align: left;
 }
 #Rtitle{
     font-family: 'Times New Roman', Times, serif;
@@ -40,6 +38,7 @@
     font-size: 45px;
     margin-left:13%;
     margin-bottom: 20px;
+    padding-top: 15px;
 } 
 #resume{
     background-color: #6da65b;
@@ -65,12 +64,14 @@
 }
 #skills{
     background-color: #6da65b;
+    padding:15px;
 }
 #stitle{
     font-family: 'Times New Roman', Times, serif;
     color: white;
     font-size: 45px;
     margin-left: 13%;
+    padding-top: 15px;
 }
 #skilllist{
     background-color: white;
@@ -83,12 +84,14 @@
 }
 #knighthall{
     width: 15em;
+    padding-bottom: 15px;
 }
 #etitle{
     font-family: 'Times New Roman', Times, serif;
     color:#6da65b;
     font-size: 45px;
     margin-left: 13%;
+    padding-top: 15px;
 }
 #edudescript{
     margin:0 auto;
