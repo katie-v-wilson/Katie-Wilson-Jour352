@@ -150,3 +150,22 @@ a:link {
     margin-left: 13%;
     padding-top: 15px;
   }
+
+  .card-body{
+    font-family: 'Times New Roman', Times, serif;
+  }
+  .card-title{
+    color:#6da65b;
+    font-size: 30px;
+  }
+  .card-text{
+    font-size:15px;
+  }
+  .card-deck{
+    display: flex;
+    width:80%;
+    margin:0 auto;
+  }
+.card{
+    margin:0px;
+}
