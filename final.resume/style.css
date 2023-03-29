@@ -139,3 +139,14 @@ a:link {
   a:active {
     color: gray;
   }
+   /* Recent Work */
+  #Recentwork{
+    background-color: white;
+  }
+  #wtitle{
+    font-family: 'Times New Roman', Times, serif;
+    color:#6da65b;
+    font-size: 45px;
+    margin-left: 13%;
+    padding-top: 15px;
+  }
