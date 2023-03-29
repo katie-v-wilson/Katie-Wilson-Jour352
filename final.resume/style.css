@@ -65,6 +65,9 @@
     font-family: 'Times New Roman', Times, serif;
     font-size: 15px;
 }
+#respdf{
+    background-color: white;
+}
  /* Skill Section Style */
 #skills{
     background-color: #6da65b;
@@ -103,8 +106,9 @@
 }
  /* Contact Section Style */
 #WesMooreRally{
-    width: 15em;
+    width: 20em;
     padding-bottom: 15px;
+    margin: 0 auto;
 }
 #ctitle{
     font-family: 'Times New Roman', Times, serif;
@@ -122,12 +126,12 @@
 
  /* Link Style */
 a:link {
-    color:#587a47;
+    color:black;
   }
   
   /* visited link */
   a:visited {
-    color: gray;
+    color:#6da65b;
   }
   
   /* mouse over link */
@@ -168,4 +172,14 @@ a:link {
   }
 .card{
     margin:0px;
+}
+/* Footer Style */
+#footer{
+    background-color: #6da65b;
+    text-align: center;
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    padding-top:15px;
+    padding-bottom: 5px;
 }
