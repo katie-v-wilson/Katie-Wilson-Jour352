@@ -1,3 +1,4 @@
+/* Top Style */
 .pagetop{
     width:100%;
 }
@@ -12,6 +13,7 @@
 .nav-item{
     font-family: 'Times New Roman', Times, serif;
 }
+/* About me Section Style */
 #headshot{
     width: 25em;
     margin:0 auto;
@@ -32,6 +34,7 @@
     font-size: 45px;
     text-align: left;
 }
+ /* Resume Section Style */
 #Rtitle{
     font-family: 'Times New Roman', Times, serif;
     color: white;
@@ -62,6 +65,7 @@
     font-family: 'Times New Roman', Times, serif;
     font-size: 15px;
 }
+ /* Skill Section Style */
 #skills{
     background-color: #6da65b;
     padding:15px;
@@ -82,6 +86,7 @@
     font-family: 'Times New Roman', Times, serif;
     font-size:17px;
 }
+ /* Education Section Style */
 #knighthall{
     width: 15em;
     padding-bottom: 15px;
@@ -96,6 +101,7 @@
 #edudescript{
     margin:0 auto;
 }
+ /* Contact Section Style */
 #WesMooreRally{
     width: 15em;
     padding-bottom: 15px;
@@ -113,3 +119,23 @@
     color:black;
     margin:0 auto;
 }
+
+ /* Link Style */
+a:link {
+    color:#587a47;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: gray;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color:black;
+  }
+  
+  /* selected link */
+  a:active {
+    color: gray;
+  }
