@@ -96,3 +96,20 @@
 #edudescript{
     margin:0 auto;
 }
+#WesMooreRally{
+    width: 15em;
+    padding-bottom: 15px;
+}
+#ctitle{
+    font-family: 'Times New Roman', Times, serif;
+    color:#6da65b;
+    font-size: 45px;
+    margin-left: 13%;
+    padding-top: 15px;
+}
+#contacttext{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color:black;
+    margin:0 auto;
+}
