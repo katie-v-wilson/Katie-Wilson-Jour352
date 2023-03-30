@@ -13,12 +13,14 @@
 .nav-item{
     font-family: 'EB Garamond', serif;
 }
+.container-fluid{
+    padding:0px;
+}
 /* About me Section Style */
 #headshot{
     width: 25em;
     margin:0 auto;
     padding-bottom: 2em;
-    padding-left;
 }
 #firstsec{
     padding-top: 2em;
@@ -94,36 +96,38 @@
 #knighthall{
     width: 15em;
     padding-bottom: 15px;
-    margin:0 auto;
 }
 #etitle{
     font-family: 'EB Garamond', serif;
     color:#6da65b;
     font-size: 45px;
+}
+#edudescript{
+    margin-left:13%;
+    margin-top: 60px;
+}
+#edsec1{
     margin-left: 13%;
     padding-top: 15px;
 }
-#edudescript{
-    margin:0 auto;
-}
  /* Contact Section Style */
 #WesMooreRally{
+    padding-top: 35px;
     width: 20em;
-    padding-bottom: 15px;
-    margin: 0 auto;
+    margin:13%;
+    padding-bottom: 35px;
 }
 #ctitle{
     font-family: 'EB Garamond', serif;
     color:#6da65b;
     font-size: 45px;
-    margin-left: 13%;
     padding-top: 15px;
 }
 #contacttext{
     font-family: 'EB Garamond', serif;
     font-size: 20px;
     color:black;
-    margin:0 auto;
+    margin-left:13%;
 }
 
  /* Link Style */
@@ -156,7 +160,6 @@ a:link {
     margin-left: 13%;
     padding-top: 15px;
   }
-
   .card-body{
     font-family: 'EB Garamond', serif;
   }
@@ -171,6 +174,11 @@ a:link {
     display: flex;
     width:80%;
     margin:0 auto;
+  }
+  .card-footer{
+    font-size:15px;
+    color:#6da65b;
+    font-family: 'EB Garamond', serif;
   }
 .card{
     margin:0px;
