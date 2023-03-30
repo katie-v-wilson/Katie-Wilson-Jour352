@@ -18,6 +18,7 @@
     width: 25em;
     margin:0 auto;
     padding-bottom: 2em;
+    padding-left;
 }
 #firstsec{
     padding-top: 2em;
@@ -93,6 +94,7 @@
 #knighthall{
     width: 15em;
     padding-bottom: 15px;
+    margin:0auto;
 }
 #etitle{
     font-family: 'Times New Roman', Times, serif;
