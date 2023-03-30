@@ -103,9 +103,13 @@
     font-size: 45px;
 }
 #edudescript{
-    margin-left:13%;
     margin-top: 60px;
 }
+@media only screen and (max-width: 970px){
+    #edudescript{
+        margin-left:13%;
+    }
+  }
 #edsec1{
     margin-left: 13%;
     padding-top: 15px;
