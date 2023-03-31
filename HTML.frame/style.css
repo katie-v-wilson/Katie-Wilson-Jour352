@@ -1,5 +1,6 @@
 .container-fluid{
     font-family: 'EB Garamond', serif;
+    padding:0px;
 }
 .headline{
     font-size: 3em;
@@ -40,4 +41,7 @@ p{
     background-color: black;
     color:white;
     text-align: center;
+    padding-top:15px;
+    padding-bottom: 5px;
+    width:100%;
 }
