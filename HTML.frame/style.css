@@ -1,6 +1,9 @@
-.container-fluid{
+.container {
     font-family: 'EB Garamond', serif;
     padding:0px;
+}
+body{
+    margin: 0 auto;
 }
 .headline{
     font-size: 3em;
