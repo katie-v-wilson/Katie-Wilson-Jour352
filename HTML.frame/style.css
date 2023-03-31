@@ -1,6 +1,36 @@
+.container-fluid{
+    font-family: 'EB Garamond', serif;
+}
 .headline{
     font-size: 3em;
     font-weight: 700;
     text-align: center;
-    font-family:'Montserrat', sans-serif;
+}
+.byline{
+    font-size:1.5em;
+    font-weight:200;
+    text-transform: uppercase;
+    text-align: center;
+}
+p{
+    font-family: 'EB Garamond', serif;
+    font-size: 1em;
+    line-height:180%;
+}
+.chaptertitle{
+    font-size:2em;
+    font-weight: 600;
+}
+#text{
+    margin-left: 70px;
+    margin-right:70px;
+}
+.photo{
+    width:75%;
+    margin:0 auto;
+}
+.caption{
+    text-align: center;
+    color:gray;
+    font-style: italic;
 }
