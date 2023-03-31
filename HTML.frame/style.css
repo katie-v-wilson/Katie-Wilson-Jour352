@@ -27,10 +27,17 @@ p{
 }
 .photo{
     width:75%;
-    margin:0 auto;
+    display:block;
+    margin-left: auto;
+    margin-right:auto;
 }
 .caption{
     text-align: center;
     color:gray;
     font-style: italic;
+}
+#footer{
+    background-color: black;
+    color:white;
+    text-align: center;
 }
