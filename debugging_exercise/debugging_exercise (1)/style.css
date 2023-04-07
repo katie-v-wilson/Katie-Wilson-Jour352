@@ -2,7 +2,6 @@ BODY {
   font-family: 'PT Serif', serif;
 }
 
-
 .container {
   margin: 0 auto;
   width:100%;
@@ -15,12 +14,11 @@ p {
 }
 
 .splash_photo{
-
-
+  /* needed width */
+  width:100%;
 }
 .navbar {
   font-family: 'Oswald', sans-serif;
-
 }
 
 
@@ -28,6 +26,7 @@ p {
   margin-top: 1em;
   margin-bottom:1em;
   border-top: 5px solid red;
+  /* needed to be solid not dotted and not so big*/
   border-bottom: 5px solid red;
   font-size:3em;
   font-family: 'Oswald', sans-serif;
@@ -59,15 +58,15 @@ p {
   height:100%;
 }
 
-.caption {
-  width:10%;
+.caption{
+  /* 100% width not 10%*/
+  width:100%;
   max-width:900px;
   margin:0 auto;
   margin-bottom:30px;
   padding-bottom: 1em;
   font-family: 'Oswald', sans-serif;
   color:#999;
-
 }
 
 .footer {
