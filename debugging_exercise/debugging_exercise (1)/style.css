@@ -42,7 +42,7 @@ p {
 
 }
 
-.chapter-head {
+.chapter-head{
   font-size:2em;
   font-family: 'Oswald', sans-serif;
   padding-top:20px;
@@ -79,7 +79,7 @@ p {
 
 .footer p {
   font-family: 'Oswald', sans-serif;
-
+  color:white;
 }
 
 .main-text {
