@@ -48,3 +48,25 @@ p{
     padding-bottom: 5px;
     width:100%;
 }
+
+.hero-image{
+    width:100%;
+}
+.hero-container{
+    position: relative;
+    text-align: center;
+    color:white;
+}
+.overlay{
+    position: absolute;
+    width:100%;
+    background:black;
+    opacity: .7;
+    top: 20%;
+}
+#big_text{
+    font-size: 3em;
+}
+#smaller_text{
+    font-size:2em;
+}
