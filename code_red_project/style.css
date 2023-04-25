@@ -60,7 +60,7 @@ p{
 .overlay{
     position: absolute;
     width:100%;
-    background:black;
+    background:#de4c3c;
     opacity: .7;
     top: 20%;
 }
