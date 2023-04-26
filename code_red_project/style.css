@@ -78,6 +78,14 @@ p{
     margin: 0 auto;
     text-transform: uppercase;
 }
+#contributed{
+    color:gray;
+    font-style: italic;
+    font-size: 14px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
 
 /* media queries */ 
 @media (max-width: 750px) {
