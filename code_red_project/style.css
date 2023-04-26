@@ -1,6 +1,6 @@
 .container {
     font-family: 'EB Garamond', serif;
-    padding:0px;
+    padding-top:10px;
 }
 body{
     margin: 0 auto;
@@ -25,10 +25,6 @@ p{
     font-size:2em;
     font-weight: 600;
 }
-#text{
-    margin-left: 70px;
-    margin-right:70px;
-}
 .photo{
     width:75%;
     display:block;
@@ -39,6 +35,8 @@ p{
     text-align: center;
     color:gray;
     font-style: italic;
+    font-size: 12px;
+    padding-top: 10px;
 }
 #footer{
     background-color: black;
@@ -61,12 +59,32 @@ p{
     position: absolute;
     width:100%;
     background:#de4c3c;
-    opacity: .7;
+    opacity:.7;
     top: 20%;
 }
 #big_text{
-    font-size: 3em;
+    font-size: 5em;
+    position:relative;
 }
 #smaller_text{
     font-size:2em;
+    padding-right:10px;
+    padding-left:10px;
+    position:relative;
+}
+#navtitle{
+    color:white;
+    font-family: 'EB Garamond', serif;
+    margin: 0 auto;
+    text-transform: uppercase;
+}
+
+/* media queries */ 
+@media (max-width: 750px) {
+#big_text{
+    font-size:2em;
+}
+#smaller_text{
+    font-size:1em;
+}
 }
