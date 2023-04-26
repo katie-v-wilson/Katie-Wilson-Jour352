@@ -87,6 +87,19 @@ p{
     text-align: center;
 }
 
+.pullquote{
+    border-top: #de4c3c solid;
+    border-bottom:#de4c3c solid;
+    font-family:'EB Garamond', serif;
+    color:gray;
+    font-size: 30px;
+    width:50%;
+    margin: 0 auto;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
 /* media queries */ 
 @media (max-width: 750px) {
 #big_text{
