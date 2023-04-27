@@ -86,11 +86,11 @@ p{
 }
 #contributed{
     color:gray;
-    font-style: italic;
     font-size: 14px;
     padding-top: 10px;
     padding-bottom: 10px;
     text-align: center;
+    font-family: 'Lato', sans-serif;
 }
 
 .pullquote{
