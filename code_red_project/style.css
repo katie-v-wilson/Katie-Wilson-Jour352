@@ -18,6 +18,7 @@ body{
     text-transform: uppercase;
     text-align: center;
     font-family: 'Lato', sans-serif;
+    color:#de4c3c;
 }
 p{
     font-family: 'EB Garamond', serif;
@@ -140,3 +141,22 @@ p{
     width:70%;
 }
 }
+/* unvisited link */
+a:link {
+    color: red;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: blue;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: gray;
+  }
+  
+  /* selected link */
+  a:active {
+    color: black;
+  }
