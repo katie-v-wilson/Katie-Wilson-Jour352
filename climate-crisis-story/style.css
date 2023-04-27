@@ -105,7 +105,7 @@ p{
     margin-top: 10px;
     margin-bottom: 10px;
 }
-#map{
+.map{
     max-width: 70%;
     margin:0 auto;
 }
