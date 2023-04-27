@@ -103,6 +103,21 @@ p{
     max-width: 70%;
     margin:0 auto;
 }
+#sidebar{
+    border: #de4c3c solid;
+    max-width: 70%;
+    font-family:'EB Garamond', serif;
+    color:gray;
+    margin: 0 auto;
+    font-size: 14px;
+    padding: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+#bartitle{
+    font-weight: bold;
+    font-size: 16px;
+}
 /* media queries */ 
 @media (max-width: 750px) {
 #big_text{
