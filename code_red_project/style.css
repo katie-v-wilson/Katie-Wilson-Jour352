@@ -99,7 +99,10 @@ p{
     margin-top: 10px;
     margin-bottom: 10px;
 }
-
+#map{
+    max-width: 70%;
+    margin:0 auto;
+}
 /* media queries */ 
 @media (max-width: 750px) {
 #big_text{
