@@ -155,8 +155,3 @@ a:link {
   a:hover {
     color: gray;
   }
-  
-  /* selected link */
-  a:active {
-    color: black;
-  }
