@@ -48,3 +48,8 @@ p{
     padding-bottom: 5px;
     width:100%;
 }
+#navtitle{
+    color:white;
+    margin: 0 auto;
+    font-size: 2em;
+}
