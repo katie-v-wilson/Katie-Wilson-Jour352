@@ -93,6 +93,15 @@ p{
 #text{
     max-width:75%;
 }
+.pullquote{
+    max-width: 50%;
+    font-size: 1.5em;
+    margin:0 auto;
+    border-top: purple solid;
+    border-bottom: purple solid;
+    margin-top:15px;
+    margin-bottom: 15px;
+}
 /* media queries */ 
 @media (max-width: 750px) {
     #big_text{
