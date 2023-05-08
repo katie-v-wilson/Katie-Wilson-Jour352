@@ -9,6 +9,7 @@ body{
     font-size: 3em;
     font-weight: 700;
     text-align: center;
+    padding:15px;
 }
 .byline{
     font-size:1.5em;
@@ -53,3 +54,56 @@ p{
     margin: 0 auto;
     font-size: 2em;
 }
+.hero-image{
+    width:100%;
+}
+.hero-container{
+    position: relative;
+    text-align: center;
+    color:white;
+}
+.overlay{
+    position: absolute;
+    width:100%;
+    background:black;
+    opacity:.7;
+    top: 20%;
+}
+#big_text{
+    font-size: 5em;
+    position:relative;
+    color:white;
+}
+#smaller_text{
+    font-size:2em;
+    padding-right:10px;
+    padding-left:10px;
+    position:relative;
+}
+
+/* media queries */ 
+@media (max-width: 750px) {
+    #big_text{
+        font-size:2em;
+    }
+    #smaller_text{
+        font-size:1em;
+    }
+    .pullquote{
+        width:70%;
+    }
+    }
+    /* unvisited link */
+    a:link {
+        color: green;
+      }
+      
+      /* visited link */
+      a:visited {
+        color: blue;
+      }
+      
+      /* mouse over link */
+      a:hover {
+        color: gray;
+      }
