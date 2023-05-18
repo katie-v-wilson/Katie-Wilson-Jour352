@@ -105,6 +105,9 @@ p{
     margin-top:15px;
     margin-bottom: 15px;
 }
+.pullbig{
+    font-size: 2em;
+}
 /* media queries */ 
 @media (max-width: 750px) {
     #big_text{
