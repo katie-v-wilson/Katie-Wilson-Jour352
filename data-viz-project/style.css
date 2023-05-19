@@ -5,6 +5,7 @@
 body{
     margin: 0 auto;
 }
+/* text style */ 
 .headline{
     font-size: 3em;
     font-weight: 700;
@@ -30,6 +31,7 @@ p{
     margin-left: 70px;
     margin-right:70px;
     font-family: 'Lato', sans-serif;
+    max-width:75%;
 }
 .photo{
     width:75%;
@@ -51,6 +53,7 @@ p{
     padding-bottom: 5px;
     width:100%;
 }
+/* hero topeer style */ 
 #navtitle{
     color:white;
     margin: 0 auto;
@@ -85,20 +88,18 @@ p{
     position:relative;
     font-family: 'EB Garamond', serif;
 }
+/* photo/graphic style */ 
 .graphic{
     width: 75%;
     margin:0 auto;
 }
-
 #map{
     max-width:50%;
 }
 #sidepic{
     max-width:75%;
 }
-#text{
-    max-width:75%;
-}
+/* pullquote style */ 
 .pullquote{
     max-width: 70%;
     font-size:1.5em;
