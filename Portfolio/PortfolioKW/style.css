@@ -1,0 +1,138 @@
+ /* Footer Style */
+ #footer{
+    background-color:  #6da65b;
+    color:white;
+    text-align: center;
+    padding-top:15px;
+    padding-bottom: 5px;
+    width:100%;
+    font-family: 'EB Garamond', serif;
+ }
+ /* Pagetopper style */
+ .pagetop{
+    width:100%;
+}
+/* Navbar */ 
+.navbar{
+    font-family: 'EB Garamond', serif;
+}
+/* About Me Section Style */
+#aboutme{
+    margin-top:50px;
+    padding-top: 10px;
+    padding-bottom:10px;
+    Padding-right:30px;
+    Padding-left:10px;
+    font-family: 'EB Garamond', serif;
+}
+#headshot{
+    width: 20em;
+    margin-bottom: 50px;
+}
+.pagetop{
+    width:100%;
+}
+.container{ 
+    padding-top: 60px;
+ }
+   /* Contact Section Style */
+#WesMooreRally{
+    padding-top: 35px;
+    width: 20em;
+    margin-left:13%;
+    padding-bottom: 35px;
+}
+#ctitle{
+    font-family: 'EB Garamond', serif;
+    color:#6da65b;
+    font-size: 45px;
+    padding-top: 15px;
+}
+#contacttext{
+    font-family: 'EB Garamond', serif;
+    font-size: 20px;
+    color:black;
+    margin-left:13%;
+}
+/* Resume Section Style */
+#Rtitle{
+    font-family: 'EB Garamond', serif;
+    color: white;
+    font-size: 45px;
+    margin-left:13%;
+    margin-bottom: 20px;
+    padding-top: 15px;
+} 
+#resume{
+    background-color: #6da65b;
+    padding-top: 10px;
+    margin-top: 50px;
+    margin-right:0px;
+    margin-left:0px;
+}
+.jobsec{
+    background-color: white;
+    width:75%;
+    margin:0 auto;
+    padding:10px;
+}
+.jobtitle{
+    color:#6da65b;
+    font-family: 'EB Garamond', serif;
+    font-size: 30px;
+}
+.jobdate{
+    font-family: 'EB Garamond', serif;
+    font-size: 20px;
+}
+.jobdescript{
+    font-family: 'EB Garamond', serif;
+    font-size: 15px;
+}
+ul{
+    font-family: 'EB Garamond', serif;
+    font-size: 15px;
+}
+#respdf{
+    background-color: white;
+}
+/* Clip Section Style */
+.publication{
+    font-family: 'EB Garamond', serif;
+    color:#6da65b;
+    text-align:center;
+}
+.title{
+    font-family: 'EB Garamond', serif;
+    text-align: center;
+}
+.card-img-top{
+    height: 200px;
+}
+.card-title{
+    font-family: 'EB Garamond', serif;
+}
+.card{
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+ /* Link Style */
+ a:link {
+    color:black;
+  }
+  
+  /* visited link */
+  a:visited {
+    color:#6da65b;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color:black;
+  }
+  
+  /* selected link */
+  a:active {
+    color: gray;
+  }
