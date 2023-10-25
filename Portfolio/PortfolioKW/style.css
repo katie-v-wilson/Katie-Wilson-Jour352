@@ -136,3 +136,6 @@ ul{
   a:active {
     color: gray;
   }
+  .btn{
+    font-family: 'EB Garamond', serif;
+  }
