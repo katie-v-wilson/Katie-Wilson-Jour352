@@ -1,6 +1,6 @@
  /* Footer Style */
  #footer{
-    background-color:  #6da65b;
+    background-color:  #7fa66f;
     color:white;
     text-align: center;
     padding-top:15px;
@@ -47,7 +47,7 @@
 }
 #ctitle{
     font-family: 'EB Garamond', serif;
-    color:#6da65b;
+    color:#7fa66f;
     font-size: 45px;
     padding-top: 15px;
 }
@@ -67,7 +67,6 @@
     padding-top: 15px;
 } 
 #resume{
-    background-color: #6da65b;
     padding-top: 10px;
     margin-top: 50px;
     margin-right:0px;
@@ -80,7 +79,7 @@
     padding:10px;
 }
 .jobtitle{
-    color:#6da65b;
+    color:#7fa66f;
     font-family: 'EB Garamond', serif;
     font-size: 30px;
 }
@@ -102,7 +101,7 @@ ul{
 /* Clip Section Style */
 .publication{
     font-family: 'EB Garamond', serif;
-    color:#6da65b;
+    color:#7fa66f;
     text-align:center;
 }
 .title{
@@ -119,7 +118,7 @@ ul{
     margin-right: 10px;
     margin-left: 10px;
 }
-.card{border:#6da65b}
+.card{border:#7fa66f}
 
  /* Link Style */
  a:link {
@@ -128,7 +127,7 @@ ul{
   
   /* visited link */
   a:visited {
-    color:#6da65b;
+    color:#7fa66f;
   }
   
   /* mouse over link */
