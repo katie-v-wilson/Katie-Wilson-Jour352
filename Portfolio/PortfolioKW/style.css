@@ -14,7 +14,10 @@
 }
 /* Navbar */ 
 .navbar{
-    font-family: 'EB Garamond', serif;
+    font-family: 'EB Garamond', serif,'Times New Roman', Times, serif;
+}
+.navbar-brand{
+    color: #6da65b;
 }
 /* About Me Section Style */
 #aboutme{
