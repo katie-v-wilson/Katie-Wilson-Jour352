@@ -16,7 +16,7 @@
 .navbar{
     font-family: 'EB Garamond', serif,'Times New Roman', Times, serif;
 }
-.navbar-brand{
+#navname{
     color: #6da65b;
 }
 /* About Me Section Style */
